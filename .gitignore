@@ -7,7 +7,7 @@ Docker/
 Ansible/
 terraform/arch1/.terraform*
 terraform/arch1/terraform.tfstate.backup
-terraform/terrafro_session_outline/
+terraform/terrafro_session_outline/*
 terraform/Terraform.pdf
 terraform/Terraform_task.pdf
 terraform.tfstate
