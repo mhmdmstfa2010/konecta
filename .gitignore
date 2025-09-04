@@ -1,2 +1,13 @@
-Kubernates_task.txt
-Kubernates-by-moataz.pdf
+k8s/Kubernates_task.txt
+k8s/Kubernates-by-moataz.pdf
+k8s/Task_5.pdf
+Linux/
+git/
+Docker/
+Ansible/
+terraform/arch1/.terraform*
+terraform/arch1/terraform.tfstate.backup
+terraform/terrafro_session_outline/
+terraform/Terraform.pdf
+terraform/Terraform_task.pdf
+terraform.tfstate
