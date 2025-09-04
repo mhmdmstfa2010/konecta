@@ -11,3 +11,5 @@ terraform/terrafro_session_outline/*
 terraform/Terraform.pdf
 terraform/Terraform_task.pdf
 terraform.tfstate
+terraform/arch2/.terraform*
+terraform/arch2/terraform.tfstate
